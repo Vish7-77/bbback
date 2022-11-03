@@ -10,5 +10,5 @@ connectDB();
 
 
 app.listen(process.env.PORT,()=>{
-    console.log(`server is running at  https://bbackend-01.herokuapp.com${process.env.PORT} `)
+    console.log(`server is running at  https://bbackend-01.herokuapp.com `)
 })
